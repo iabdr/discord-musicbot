@@ -1,7 +1,7 @@
 {
   "name": "music-bot",
   "main": "index.js",
-  "author": "ZerioDev",
+  "author": "Abd",
   "version": "5.0.0",
   "repository": "https://github.com/abd-ar/discord-musicbot.git",
   "description": "Discord Music Bot.",
